@@ -1,1 +1,7 @@
+
 Barcelona Activa sin cambios
+
+Barcelona Activa con un cambio
+
+Cambio para crear conflicto
+
